@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <!-- Show Metadata -->
+    <title>Snow Crash</title>
+    <description>A chapter-by-chapter reading of Snow Crash by Matt, for Lydia</description>
+    <link>https://hookmanuk.github.io/snowcrashaudio</link>
+    <language>en-us</language>
+    <itunes:author>Matt</itunes:author>
+    <itunes:image href="https://hookmanuk.github.io/snowcrashaudio/cover.jpg" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+    <!-- CHAPTER 0 -->
+    <item>
+      <title>Chapter 0: Introduction</title>
+      <description></description>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hookmanuk.github.io/snowcrashaudio/chapter0.mp3</guid>
+      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter0.mp3" type="audio/mpeg" length="(385357" />
+    </item>
+
+    <!-- CHAPTER 1 -->
+    <item>
+      <title>Chapter 1: The Deliverator</title>
+      <description></description>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hookmanuk.github.io/snowcrashaudio/chapter1.mp3</guid>
+      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter1.mp3" type="audio/mpeg" length="(11391267" />
+    </item>
+  </channel>
+</rss>
