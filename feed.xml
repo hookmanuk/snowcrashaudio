@@ -17,7 +17,7 @@
       <description></description>
       <pubDate>Tue, 14 Jul 2026 01:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://hookmanuk.github.io/snowcrashaudio/chapter0.mp3</guid>
-      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter0.mp3" type="audio/mpeg" length="(385357" />
+      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter0.mp3" type="audio/mpeg" length="385357" />
     </item>
 
     <!-- CHAPTER 1 -->
@@ -26,7 +26,7 @@
       <description></description>
       <pubDate>Tue, 14 Jul 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://hookmanuk.github.io/snowcrashaudio/chapter1.mp3</guid>
-      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter1.mp3" type="audio/mpeg" length="(11391267" />
+      <enclosure url="https://hookmanuk.github.io/snowcrashaudio/chapter1.mp3" type="audio/mpeg" length="11391267" />
     </item>
   </channel>
 </rss>
